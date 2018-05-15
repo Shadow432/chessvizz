@@ -17,8 +17,8 @@ if (board[l1][d1]=='p' || board[l1][d1]=='P'){
 		 printf("\n");
 		 return 1;}
 	else {printf("\n");
-	      printf("Wrong move");
-	      printf("\n");
+	    //  printf("Wrong move");
+	     // printf("\n");
 	      return 0;}
 }
 if (board[l1][d1]=='r' || board[l1][d1]=='R'){
@@ -48,8 +48,8 @@ if (board[l1][d1]=='r' || board[l1][d1]=='R'){
 		 printf("\n");
 		 return 1;}
 	else {printf("\n");
-	      printf("Wrong move");
-	      printf("\n");
+	      //printf("Wrong move");
+	      //printf("\n");
 		return 0;}
 }
 if (board[l1][d1]=='n' || board[l1][d1]=='N'){
@@ -59,8 +59,8 @@ if (board[l1][d1]=='n' || board[l1][d1]=='N'){
 		 printf("\n");
 		 return 1;}
 	else {printf("\n");
-	      printf("Wrong move");
-	      printf("\n");
+	      //printf("Wrong move");
+	      //printf("\n");
 		return 0;}
 }
 if (board[l1][d1]=='b' || board[l1][d1]=='B'){
@@ -70,8 +70,8 @@ if (board[l1][d1]=='b' || board[l1][d1]=='B'){
 		 printf("\n");
 		 return 1;}
 	else {printf("\n");
-	      printf("Wrong move");
-	      printf("\n");
+	     // printf("Wrong move");
+	      //printf("\n");
 	      return 0;}
 }
 if (board[l1][d1]=='k' || board[l1][d1]=='K'){
@@ -81,8 +81,8 @@ if (board[l1][d1]=='k' || board[l1][d1]=='K'){
 		 printf("\n");
 		 return 1;}
 	else {printf("\n");
-	      printf("Wrong move");
-	      printf("\n");
+	      //printf("Wrong move");
+	      //printf("\n");
  	      return 0;}
 }
 if (board[l1][d1]=='q' || board[l1][d1]=='Q'){
@@ -92,8 +92,8 @@ if (board[l1][d1]=='q' || board[l1][d1]=='Q'){
 		 printf("\n");
 		 return 1;}
 	else {printf("\n");
-	      printf("Wrong move");
-	      printf("\n");
+	     // printf("Wrong move");
+	      //printf("\n");
 	      return 0;}
 }
 
